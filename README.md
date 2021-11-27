@@ -1,5 +1,5 @@
 # WindowsRemote
-Remote shutdown using an android application using socket programming 
+Remote shutdown using an android application using socket programming.
 
 Clone this repo on your local machine. In the remote shutdown system yuo will have to change the paths given in the start() funtions to that path of the respective folders in your local machine. Intall pyttx3 using pip install.
 
